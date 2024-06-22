@@ -3,9 +3,8 @@
 # 👋 Hi, I'm Peace Ayomide!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
 👨‍💻 Self-taught frontend developer specializing in HTML, CSS, and React<br/>
-🎨 Sharing knowledge about frontend development, HTML, CSS, and React on YouTube<br/>
 🌱 Documenting my journey and projects in my digital garden<br/>
-💡 Currently learning about advanced frontend techniques and modern web design!<br/>
+💡 Currently learning about advanced frontend techniques!<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=peaceayomide&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
