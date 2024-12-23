@@ -10,12 +10,13 @@ with expertise across modern front-end and back-end technologies.<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)<br/>
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%234A7BF7.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black&style=flat-square)
+![TailwindCSS](https://img.shields.io/static/v1?label=&message=TailwindCSS&color=38B2AC&logo=tailwind-css&logoColor=black&style=flat-square)
+![Styled Components](https://img.shields.io/static/v1?label=&message=Styled-Components&color=DB7093&logo=styled-components&logoColor=black&style=flat-square)
+![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&logo=sass&logoColor=black&style=flat-square)<br/>
+![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=next.js&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&logo=firebase&logoColor=black&style=flat-square)
+![Supabase](https://img.shields.io/static/v1?label=&message=Supabase&color=4A7BF7&logo=supabase&logoColor=black&style=flat-square)
+![Visual Studio Code](https://img.shields.io/static/v1?label=&message=VS-Code&color=007ACC&logo=visual-studio-code&logoColor=white&style=flat-square)
+
