@@ -18,6 +18,5 @@ with expertise across modern front-end and back-end technologies.<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%234A7BF7.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![JetBrains](https://img.shields.io/badge/JetBrains-%23F24E1E.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
