@@ -2,9 +2,10 @@
 
 # 👋 Hi, I'm Peace Ayomide!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
-👨‍💻 Self-taught frontend developer specializing in crafting dynamic and responsive user interfaces using React, with a strong foundation in modern web technologies and component-driven design principles.<br/>
+👨‍💻 Expert full-stack developer delivering seamless, scalable, and high-performing web solutions <br/>
+with expertise across modern front-end and back-end technologies.
 🌱 Documenting my journey and projects in my digital garden<br/>
-💡 Currently learning about advanced frontend techniques!<br/>
+💡 Currently learning about advanced on more advance coding technologies!<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 # 💻 Tech Stack
