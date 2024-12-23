@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Peace Ayomide!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
 👨‍💻 Expert full-stack developer delivering seamless, scalable, and high-performing web solutions <br/>
-with expertise across modern front-end and back-end technologies.
+with expertise across modern front-end and back-end technologies.<br/>
 🌱 Documenting my journey and projects in my digital garden<br/>
 💡 Currently learning about advanced on more advance coding technologies!<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
