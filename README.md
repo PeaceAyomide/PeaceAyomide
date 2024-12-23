@@ -6,7 +6,6 @@
 🌱 Documenting my journey and projects in my digital garden<br/>
 💡 Currently learning about advanced frontend techniques!<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=peaceayomide&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
