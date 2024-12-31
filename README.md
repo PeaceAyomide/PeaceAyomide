@@ -21,5 +21,5 @@ with expertise across modern front-end and back-end technologies.<br/>
 ![Supabase](https://img.shields.io/badge/supabase-%234A7BF7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2325A162.svg?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%2307C7ED.svg?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=%2325A162)
