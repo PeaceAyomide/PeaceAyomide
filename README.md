@@ -19,6 +19,3 @@ with expertise across modern front-end and back-end technologies.<br/>
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%234A7BF7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-%23000000.svg?style=for-the-badge&logo=claude&logoColor=white)
