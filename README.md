@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Peace Ayomide!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
-👨‍💻 I’m a Mobile Engineer with expertise in building seamless, scalable, and high-performance mobile apps,<br/> 
-specializing in both front-end and back-end technologies.<br/>
+👨‍💻 I’m a Mobile & Web Engineer with expertise in building seamless, scalable, and high-performance mobile apps,<br/> 
+specializing in front-end  technologies.<br/>
 🌱 Documenting my journey and projects in my digital garden<br/>
 💡 Currently learning about advanced on more advance coding technologies!<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
@@ -11,8 +11,8 @@ specializing in both front-end and back-end technologies.<br/>
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
