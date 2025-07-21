@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Peace Ayomide!
+# 👋 Hi, I'm Peace Melodi!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
 👨‍💻 I’m a Mobile & Web Engineer with expertise in building seamless, scalable, and high-performance mobile apps,<br/> 
 specializing in front-end  technologies.<br/>
